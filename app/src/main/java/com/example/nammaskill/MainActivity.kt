@@ -907,7 +907,7 @@ fun InterestFormDialog(batch: Batch, onDismiss: () -> Unit) {
     val generativeModel = remember {
         GenerativeModel(
             modelName = "gemini-1.5-flash",
-            apiKey = "AIzaSyD4QkcGvWzUzWawnf7odlO85fyBbjWe_JQ",
+            apiKey = "API_KEY",
             generationConfig = generationConfig { temperature = 0.7f }
         )
     }
