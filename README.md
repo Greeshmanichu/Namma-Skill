@@ -11,3 +11,10 @@ Rural youth often miss vocational opportunities due to fragmented information an
 * **Real-Time Batch Discovery**: Live course filtering and search.
 * **Instant Notifications**: Firebase Cloud Messaging for batch updates.
 * **Application Tracking**: Real-time status monitoring (Pending/Approved).
+
+## 🛠 Tech Stack
+* **Language**: Kotlin
+* **UI**: Jetpack Compose (Material 3)
+* **AI**: Gemini 1.5 Flash API
+* **Backend**: Firebase (Auth, Firestore, FCM)
+* **Architecture**: MVVM
