@@ -29,3 +29,7 @@ Rural youth often miss vocational opportunities due to fragmented information an
 | Home Screen | AI Analysis | Progress Track |
 |---|---|---|
 | ![Home](https://via.placeholder.com/200) | ![AI](https://via.placeholder.com/200) | ![Progress](https://via.placeholder.com/200) |
+
+## 🔗 Links
+* **Download APK**: [Latest Release](https://github.com/Greeshmanichu/Namma-Skill/releases/latest)
+
