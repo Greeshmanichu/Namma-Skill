@@ -18,3 +18,9 @@ Rural youth often miss vocational opportunities due to fragmented information an
 * **AI**: Gemini 1.5 Flash API
 * **Backend**: Firebase (Auth, Firestore, FCM)
 * **Architecture**: MVVM
+
+## ⚙️ Installation & Setup
+1. Clone the repository: `git clone https://github.com/Greeshmanichu/Namma-Skill.git`
+2. Open the project in **Android Studio Jellyfish** or later.
+3. Add your `google-services.json` to the `/app` directory.
+4. Sync Gradle and click **Run**.
