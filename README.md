@@ -24,3 +24,8 @@ Rural youth often miss vocational opportunities due to fragmented information an
 2. Open the project in **Android Studio Jellyfish** or later.
 3. Add your `google-services.json` to the `/app` directory.
 4. Sync Gradle and click **Run**.
+
+## 📸 Screenshots
+| Home Screen | AI Analysis | Progress Track |
+|---|---|---|
+| ![Home](https://via.placeholder.com/200) | ![AI](https://via.placeholder.com/200) | ![Progress](https://via.placeholder.com/200) |
