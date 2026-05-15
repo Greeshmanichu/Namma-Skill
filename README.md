@@ -33,3 +33,8 @@ Rural youth often miss vocational opportunities due to fragmented information an
 ## 🔗 Links
 * **Download APK**: [Latest Release](https://github.com/Greeshmanichu/Namma-Skill/releases/latest)
 
+## 🚀 Future Roadmap
+* Offline mode support using Room Database.
+* Multilingual AI summaries for local languages.
+* Integration with NSDC (National Skill Development Corp) APIs.
+
