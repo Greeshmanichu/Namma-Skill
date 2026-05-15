@@ -25,12 +25,6 @@ Rural youth often miss vocational opportunities due to fragmented information an
 3. Add your `google-services.json` to the `/app` directory.
 4. Sync Gradle and click **Run**.
 
-## 📸 Screenshots
-| Home Screen | AI Analysis | Progress Track |
-|---|---|---|
-| ![Home](https://via.placeholder.com/200) | ![AI](<img width="720" height="1520" alt="AI ANalysis Screen" src="https://github.com/user-attachments/assets/31cdf165-996e-476d-a9ff-9fa88f4bfede" />
-) | ![Progress](https://via.placeholder.com/200) |
-
 ## 🔗 Links
 * **Download APK**: [Latest Release](https://github.com/Greeshmanichu/Namma-Skill/releases/latest)
 
